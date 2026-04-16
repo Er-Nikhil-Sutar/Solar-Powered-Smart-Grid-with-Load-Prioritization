@@ -226,4 +226,4 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-**Nikhil** — Embedded Systems Developer  
+**Nikhil** — Embedded Developer  
